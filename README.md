@@ -1,4 +1,6 @@
 ### Olá, me chamo Leandro! 👋
+🎨Webdesigner.
+👾Programador Web.
 <div align="center">
   <a href="https://github.com/Leandro0O">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro0O&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
