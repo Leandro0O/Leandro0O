@@ -1,6 +1,6 @@
 ### Olá, me chamo Leandro! 👋
 Estudante das áreas:
-  👨‍🎨 Web Eesigner
+  👨‍🎨 Web Designer
   👨‍💻 Programador Web
   💻 Programador de Sistemas  
   
