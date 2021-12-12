@@ -1,9 +1,10 @@
 ### Olá, me chamo Leandro! 👋
-Estudante das áreas:
-  👨‍🎨 Web Designer
-  👨‍💻 Programador Web
-  💻 Programador de Sistemas  
-  
+<div>
+Estudante das áreas:<br>
+  👨‍🎨 Web Designer <br>
+  👨‍💻 Programador Web <br>
+  💻 Programador de Sistemas  <br>
+  </div>
 <div align="center">
   <a href="https://github.com/Leandro0O">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro0O&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
