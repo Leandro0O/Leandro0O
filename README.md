@@ -8,6 +8,9 @@
                 outros cursos complementares, atualmente tenho conhecimento em <b>HTML</b>, <b>CSS</b>, <b>Javascript</b>, <b>MySQL</b>, <b>PHP</b>, <b>Python</b> e alguns Frameworks como <b>Flask</b>, <b>Django</b>, <b>Bootstrap</b>, <b>Tailwind</b> e <b>Bulma</b> com foco
                 no desenvolvimento de aplicações Web, além de estar me aprofundando  <b>Java</b> com foco no
                 desenvolvimento mobile.</p>
+  <h4>Portifólio</h4>
+  <p>Caso queira conferir meu portifólio basta acessar o link abaixo:</p>
+  <p>http://leandroo.pythonanywhere.com/</p>
   </div><br><br>
 <div align="center">
   <a href="https://github.com/Leandro0O">
