@@ -1,10 +1,13 @@
 ### Olá, me chamo Leandro! 👋
 <div>
-<p>Estudante das áreas:</p>
-<p>👨‍🎨 Web Designer</p>
-<p>👨‍💻 Programador Web </p>
-<p>💻 Programador de Sistemas  </pr>
-<p>Atualmente tenho o foco voltado para aplicações Web na parte de Front e Back end.</p>
+<p> A tecnologia é um assunto que desde muito cedo conseguiu atrair minha atenção, isso fez com que sempre
+                estivesse correndo atrás de novas notícias sobre novas tecnologias, programas para computadores, jogos e
+                tudo que envolve esse universo maravilhoso. Com o passar do tempo surgiu o interesse de alguma forma
+                fazer parte do desenvolvimento dos programas, sites e jogos que consumia.</p>
+  <p> Sou estudante do curso de <b>Análise e Desenvolvimento de Sistemas</b> pelo Senac-EAD, além de ter concluído
+                outros cursos complementares, atualmente tenho conhecimento em <b>HTML</b>, <b>CSS</b>, <b>Javascript</b>, <b>MySQL</b>, <b>PHP</b>, <b>Python</b> e alguns Frameworks como <b>Flask</b>, <b>Django</b>, <b>Bootstrap</b>, <b>Tailwind</b> e <b>Bulma</b> com foco
+                no desenvolvimento de aplicações Web, além de estar me aprofundando  <b>Java</b> com foco no
+                desenvolvimento mobile.</p>
   </div><br><br>
 <div align="center">
   <a href="https://github.com/Leandro0O">
