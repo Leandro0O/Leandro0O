@@ -9,13 +9,6 @@
   <p>  Atualmete sou estudante do curso de Análise e Desenvolvimento de Sistemas pelo Senac-EAD, além de ter
                 concluído
                 outros cursos complementares.</p>
-	
-
-  
-  <h3>Portifólio</h3>
-  <p>Caso queira conferir meu portifólio basta acessar o link abaixo:</p>
-  <p>http://leandroo.pythonanywhere.com/</p>
-  </div>
   
 
 <h3 align="left">Languages and Tools:</h3>
