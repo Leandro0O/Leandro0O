@@ -1,5 +1,5 @@
          
-### Olá, me chamo Leandro! 👋
+## Olá, me chamo Leandro! 👋
 <div>
 <p>  A tecnologia é um assunto que desde muito cedo conseguiu atrair minha atenção, isso fez com que sempre
                 estivesse correndo atrás de novas notícias sobre novas tecnologias, programas para computadores, jogos e
